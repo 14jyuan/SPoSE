@@ -35,7 +35,7 @@ def parseargs():
         choices=['deterministic', 'variational'],
         help='whether to apply a deterministic or variational version of SPoSE')
     aa('--task', type=str, default='odd_one_out',
-        choices=['odd_one_out', 'similarity_task'])
+        choices=['odd_one_out', 'similarity_task', 'face_choice'])
     aa('--modality', type=str, default='behavioral/',
         choices=['behavioral/', 'text/', 'visual/', 'neural/'],
         help='define for which modality SPoSE should be perform specified task')
