@@ -30,7 +30,7 @@ data_7 = get_data(os.path.join(directory,'batchR7_' + gender + '.csv'))
 data_8 = get_data(os.path.join(directory,'batchR8_' + gender + '.csv'))
 data_9 = get_data(os.path.join(directory,'batchR9_' + gender + '.csv'))
 
-filtered = pd.concat([data_1], axis=0, ignore_index=True)#, data_2, data_3, data_4, data_5, data_6, data_7, data_8, data_9], axis=0, ignore_index=True)
+filtered = pd.concat([data_1, data_2, data_3, data_4, data_5, data_6, data_7, data_8, data_9], axis=0, ignore_index=True)#, data_2, data_3, data_4, data_5, data_6, data_7, data_8, data_9], axis=0, ignore_index=True)
 nitems = len(filtered.index)
 #print("nitems", nitems)
 
@@ -58,5 +58,5 @@ hn = int(len(apns)*.9)
 train_apns = apns[:hn]
 test_apns = apns[hn:]
 
-np.savetxt('train90.txt', np.array(train_apns).astype(int), fmt='%i')
-np.savetxt('test10.txt', np.array(test_apns).astype(int), fmt='%i')
+np.savetxt('data/train_90.txt', np.array(train_apns).astype(int), fmt='%i')
+np.savetxt('data/test_10.txt', np.array(test_apns).astype(int), fmt='%i')
