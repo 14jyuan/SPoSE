@@ -1,6 +1,1084 @@
 INFO:root:Optimization started for lambda: 0.008
 INFO:root:Epoch: 1/200
-INFO:root:Train acc: 0.336
-INFO:root:Train loss: 1.137
+INFO:root:Train acc: 0.331
+INFO:root:Train loss: 1.170
+INFO:root:Val acc: 0.331
+INFO:root:Val loss: 1.099
+INFO:root:Epoch: 2/200
+INFO:root:Train acc: 0.354
+INFO:root:Train loss: 1.167
 INFO:root:Val acc: 0.335
 INFO:root:Val loss: 1.099
+INFO:root:Epoch: 3/200
+INFO:root:Train acc: 0.361
+INFO:root:Train loss: 1.165
+INFO:root:Val acc: 0.338
+INFO:root:Val loss: 1.100
+INFO:root:Epoch: 4/200
+INFO:root:Train acc: 0.362
+INFO:root:Train loss: 1.163
+INFO:root:Val acc: 0.338
+INFO:root:Val loss: 1.100
+INFO:root:Epoch: 5/200
+INFO:root:Train acc: 0.364
+INFO:root:Train loss: 1.161
+INFO:root:Val acc: 0.337
+INFO:root:Val loss: 1.100
+INFO:root:Saving model weights at epoch 5
+INFO:root:Saving model parameters at epoch 5
+INFO:root:Epoch: 6/200
+INFO:root:Train acc: 0.367
+INFO:root:Train loss: 1.159
+INFO:root:Val acc: 0.336
+INFO:root:Val loss: 1.101
+INFO:root:Epoch: 7/200
+INFO:root:Train acc: 0.367
+INFO:root:Train loss: 1.158
+INFO:root:Val acc: 0.334
+INFO:root:Val loss: 1.101
+INFO:root:Epoch: 8/200
+INFO:root:Train acc: 0.368
+INFO:root:Train loss: 1.156
+INFO:root:Val acc: 0.338
+INFO:root:Val loss: 1.101
+INFO:root:Epoch: 9/200
+INFO:root:Train acc: 0.368
+INFO:root:Train loss: 1.154
+INFO:root:Val acc: 0.337
+INFO:root:Val loss: 1.101
+INFO:root:Epoch: 10/200
+INFO:root:Train acc: 0.370
+INFO:root:Train loss: 1.152
+INFO:root:Val acc: 0.336
+INFO:root:Val loss: 1.101
+INFO:root:Saving model weights at epoch 10
+INFO:root:Saving model parameters at epoch 10
+INFO:root:Epoch: 11/200
+INFO:root:Train acc: 0.370
+INFO:root:Train loss: 1.151
+INFO:root:Val acc: 0.337
+INFO:root:Val loss: 1.101
+INFO:root:Epoch: 12/200
+INFO:root:Train acc: 0.368
+INFO:root:Train loss: 1.149
+INFO:root:Val acc: 0.336
+INFO:root:Val loss: 1.101
+INFO:root:Epoch: 13/200
+INFO:root:Train acc: 0.370
+INFO:root:Train loss: 1.147
+INFO:root:Val acc: 0.337
+INFO:root:Val loss: 1.102
+INFO:root:Epoch: 14/200
+INFO:root:Train acc: 0.371
+INFO:root:Train loss: 1.146
+INFO:root:Val acc: 0.338
+INFO:root:Val loss: 1.102
+INFO:root:Epoch: 15/200
+INFO:root:Train acc: 0.371
+INFO:root:Train loss: 1.144
+INFO:root:Val acc: 0.338
+INFO:root:Val loss: 1.102
+INFO:root:Saving model weights at epoch 15
+INFO:root:Saving model parameters at epoch 15
+INFO:root:Epoch: 16/200
+INFO:root:Train acc: 0.372
+INFO:root:Train loss: 1.142
+INFO:root:Val acc: 0.336
+INFO:root:Val loss: 1.102
+INFO:root:Epoch: 17/200
+INFO:root:Train acc: 0.375
+INFO:root:Train loss: 1.140
+INFO:root:Val acc: 0.338
+INFO:root:Val loss: 1.102
+INFO:root:Epoch: 18/200
+INFO:root:Train acc: 0.373
+INFO:root:Train loss: 1.138
+INFO:root:Val acc: 0.334
+INFO:root:Val loss: 1.102
+INFO:root:Epoch: 19/200
+INFO:root:Train acc: 0.375
+INFO:root:Train loss: 1.136
+INFO:root:Val acc: 0.336
+INFO:root:Val loss: 1.101
+INFO:root:Epoch: 20/200
+INFO:root:Train acc: 0.377
+INFO:root:Train loss: 1.134
+INFO:root:Val acc: 0.335
+INFO:root:Val loss: 1.101
+INFO:root:Saving model weights at epoch 20
+INFO:root:Saving model parameters at epoch 20
+INFO:root:Epoch: 21/200
+INFO:root:Train acc: 0.376
+INFO:root:Train loss: 1.132
+INFO:root:Val acc: 0.336
+INFO:root:Val loss: 1.101
+INFO:root:Epoch: 22/200
+INFO:root:Train acc: 0.379
+INFO:root:Train loss: 1.129
+INFO:root:Val acc: 0.338
+INFO:root:Val loss: 1.101
+INFO:root:Epoch: 23/200
+INFO:root:Train acc: 0.380
+INFO:root:Train loss: 1.128
+INFO:root:Val acc: 0.336
+INFO:root:Val loss: 1.101
+INFO:root:Epoch: 24/200
+INFO:root:Train acc: 0.384
+INFO:root:Train loss: 1.125
+INFO:root:Val acc: 0.337
+INFO:root:Val loss: 1.101
+INFO:root:Epoch: 25/200
+INFO:root:Train acc: 0.383
+INFO:root:Train loss: 1.123
+INFO:root:Val acc: 0.338
+INFO:root:Val loss: 1.100
+INFO:root:Saving model weights at epoch 25
+INFO:root:Saving model parameters at epoch 25
+INFO:root:Epoch: 26/200
+INFO:root:Train acc: 0.386
+INFO:root:Train loss: 1.121
+INFO:root:Val acc: 0.338
+INFO:root:Val loss: 1.100
+INFO:root:Epoch: 27/200
+INFO:root:Train acc: 0.388
+INFO:root:Train loss: 1.120
+INFO:root:Val acc: 0.339
+INFO:root:Val loss: 1.100
+INFO:root:Epoch: 28/200
+INFO:root:Train acc: 0.390
+INFO:root:Train loss: 1.118
+INFO:root:Val acc: 0.340
+INFO:root:Val loss: 1.100
+INFO:root:Epoch: 29/200
+INFO:root:Train acc: 0.392
+INFO:root:Train loss: 1.116
+INFO:root:Val acc: 0.342
+INFO:root:Val loss: 1.099
+INFO:root:Epoch: 30/200
+INFO:root:Train acc: 0.394
+INFO:root:Train loss: 1.115
+INFO:root:Val acc: 0.344
+INFO:root:Val loss: 1.099
+INFO:root:Saving model weights at epoch 30
+INFO:root:Saving model parameters at epoch 30
+INFO:root:Epoch: 31/200
+INFO:root:Train acc: 0.397
+INFO:root:Train loss: 1.113
+INFO:root:Val acc: 0.341
+INFO:root:Val loss: 1.099
+INFO:root:Epoch: 32/200
+INFO:root:Train acc: 0.399
+INFO:root:Train loss: 1.112
+INFO:root:Val acc: 0.341
+INFO:root:Val loss: 1.099
+INFO:root:Epoch: 33/200
+INFO:root:Train acc: 0.402
+INFO:root:Train loss: 1.111
+INFO:root:Val acc: 0.342
+INFO:root:Val loss: 1.099
+INFO:root:Epoch: 34/200
+INFO:root:Train acc: 0.404
+INFO:root:Train loss: 1.110
+INFO:root:Val acc: 0.343
+INFO:root:Val loss: 1.099
+INFO:root:Epoch: 35/200
+INFO:root:Train acc: 0.406
+INFO:root:Train loss: 1.109
+INFO:root:Val acc: 0.344
+INFO:root:Val loss: 1.099
+INFO:root:Saving model weights at epoch 35
+INFO:root:Saving model parameters at epoch 35
+INFO:root:Epoch: 36/200
+INFO:root:Train acc: 0.409
+INFO:root:Train loss: 1.109
+INFO:root:Val acc: 0.344
+INFO:root:Val loss: 1.099
+INFO:root:Epoch: 37/200
+INFO:root:Train acc: 0.410
+INFO:root:Train loss: 1.108
+INFO:root:Val acc: 0.345
+INFO:root:Val loss: 1.098
+INFO:root:Epoch: 38/200
+INFO:root:Train acc: 0.414
+INFO:root:Train loss: 1.107
+INFO:root:Val acc: 0.344
+INFO:root:Val loss: 1.098
+INFO:root:Epoch: 39/200
+INFO:root:Train acc: 0.417
+INFO:root:Train loss: 1.107
+INFO:root:Val acc: 0.344
+INFO:root:Val loss: 1.098
+INFO:root:Epoch: 40/200
+INFO:root:Train acc: 0.417
+INFO:root:Train loss: 1.107
+INFO:root:Val acc: 0.345
+INFO:root:Val loss: 1.098
+INFO:root:Saving model weights at epoch 40
+INFO:root:Saving model parameters at epoch 40
+INFO:root:Epoch: 41/200
+INFO:root:Train acc: 0.422
+INFO:root:Train loss: 1.106
+INFO:root:Val acc: 0.345
+INFO:root:Val loss: 1.098
+INFO:root:Epoch: 42/200
+INFO:root:Train acc: 0.422
+INFO:root:Train loss: 1.106
+INFO:root:Val acc: 0.345
+INFO:root:Val loss: 1.098
+INFO:root:Epoch: 43/200
+INFO:root:Train acc: 0.423
+INFO:root:Train loss: 1.105
+INFO:root:Val acc: 0.344
+INFO:root:Val loss: 1.098
+INFO:root:Epoch: 44/200
+INFO:root:Train acc: 0.425
+INFO:root:Train loss: 1.105
+INFO:root:Val acc: 0.343
+INFO:root:Val loss: 1.098
+INFO:root:Epoch: 45/200
+INFO:root:Train acc: 0.427
+INFO:root:Train loss: 1.105
+INFO:root:Val acc: 0.343
+INFO:root:Val loss: 1.098
+INFO:root:Saving model weights at epoch 45
+INFO:root:Saving model parameters at epoch 45
+INFO:root:Epoch: 46/200
+INFO:root:Train acc: 0.428
+INFO:root:Train loss: 1.105
+INFO:root:Val acc: 0.343
+INFO:root:Val loss: 1.098
+INFO:root:Epoch: 47/200
+INFO:root:Train acc: 0.431
+INFO:root:Train loss: 1.104
+INFO:root:Val acc: 0.342
+INFO:root:Val loss: 1.098
+INFO:root:Epoch: 48/200
+INFO:root:Train acc: 0.436
+INFO:root:Train loss: 1.104
+INFO:root:Val acc: 0.344
+INFO:root:Val loss: 1.098
+INFO:root:Epoch: 49/200
+INFO:root:Train acc: 0.436
+INFO:root:Train loss: 1.104
+INFO:root:Val acc: 0.342
+INFO:root:Val loss: 1.098
+INFO:root:Epoch: 50/200
+INFO:root:Train acc: 0.435
+INFO:root:Train loss: 1.104
+INFO:root:Val acc: 0.344
+INFO:root:Val loss: 1.098
+INFO:root:Saving model weights at epoch 50
+INFO:root:Saving model parameters at epoch 50
+INFO:root:Epoch: 51/200
+INFO:root:Train acc: 0.437
+INFO:root:Train loss: 1.103
+INFO:root:Val acc: 0.344
+INFO:root:Val loss: 1.098
+INFO:root:Epoch: 52/200
+INFO:root:Train acc: 0.438
+INFO:root:Train loss: 1.103
+INFO:root:Val acc: 0.345
+INFO:root:Val loss: 1.098
+INFO:root:Epoch: 53/200
+INFO:root:Train acc: 0.440
+INFO:root:Train loss: 1.103
+INFO:root:Val acc: 0.343
+INFO:root:Val loss: 1.098
+INFO:root:Epoch: 54/200
+INFO:root:Train acc: 0.442
+INFO:root:Train loss: 1.103
+INFO:root:Val acc: 0.344
+INFO:root:Val loss: 1.098
+INFO:root:Epoch: 55/200
+INFO:root:Train acc: 0.443
+INFO:root:Train loss: 1.102
+INFO:root:Val acc: 0.344
+INFO:root:Val loss: 1.098
+INFO:root:Saving model weights at epoch 55
+INFO:root:Saving model parameters at epoch 55
+INFO:root:Epoch: 56/200
+INFO:root:Train acc: 0.442
+INFO:root:Train loss: 1.102
+INFO:root:Val acc: 0.346
+INFO:root:Val loss: 1.098
+INFO:root:Epoch: 57/200
+INFO:root:Train acc: 0.447
+INFO:root:Train loss: 1.102
+INFO:root:Val acc: 0.346
+INFO:root:Val loss: 1.098
+INFO:root:Epoch: 58/200
+INFO:root:Train acc: 0.444
+INFO:root:Train loss: 1.102
+INFO:root:Val acc: 0.347
+INFO:root:Val loss: 1.098
+INFO:root:Epoch: 59/200
+INFO:root:Train acc: 0.444
+INFO:root:Train loss: 1.102
+INFO:root:Val acc: 0.346
+INFO:root:Val loss: 1.098
+INFO:root:Epoch: 60/200
+INFO:root:Train acc: 0.447
+INFO:root:Train loss: 1.102
+INFO:root:Val acc: 0.348
+INFO:root:Val loss: 1.098
+INFO:root:Saving model weights at epoch 60
+INFO:root:Saving model parameters at epoch 60
+INFO:root:Epoch: 61/200
+INFO:root:Train acc: 0.448
+INFO:root:Train loss: 1.101
+INFO:root:Val acc: 0.349
+INFO:root:Val loss: 1.098
+INFO:root:Epoch: 62/200
+INFO:root:Train acc: 0.447
+INFO:root:Train loss: 1.101
+INFO:root:Val acc: 0.347
+INFO:root:Val loss: 1.098
+INFO:root:Epoch: 63/200
+INFO:root:Train acc: 0.452
+INFO:root:Train loss: 1.101
+INFO:root:Val acc: 0.350
+INFO:root:Val loss: 1.098
+INFO:root:Epoch: 64/200
+INFO:root:Train acc: 0.450
+INFO:root:Train loss: 1.101
+INFO:root:Val acc: 0.349
+INFO:root:Val loss: 1.098
+INFO:root:Epoch: 65/200
+INFO:root:Train acc: 0.453
+INFO:root:Train loss: 1.100
+INFO:root:Val acc: 0.347
+INFO:root:Val loss: 1.098
+INFO:root:Saving model weights at epoch 65
+INFO:root:Saving model parameters at epoch 65
+INFO:root:Epoch: 66/200
+INFO:root:Train acc: 0.452
+INFO:root:Train loss: 1.100
+INFO:root:Val acc: 0.348
+INFO:root:Val loss: 1.098
+INFO:root:Epoch: 67/200
+INFO:root:Train acc: 0.454
+INFO:root:Train loss: 1.100
+INFO:root:Val acc: 0.349
+INFO:root:Val loss: 1.098
+INFO:root:Epoch: 68/200
+INFO:root:Train acc: 0.455
+INFO:root:Train loss: 1.100
+INFO:root:Val acc: 0.347
+INFO:root:Val loss: 1.098
+INFO:root:Epoch: 69/200
+INFO:root:Train acc: 0.453
+INFO:root:Train loss: 1.100
+INFO:root:Val acc: 0.351
+INFO:root:Val loss: 1.098
+INFO:root:Epoch: 70/200
+INFO:root:Train acc: 0.457
+INFO:root:Train loss: 1.100
+INFO:root:Val acc: 0.350
+INFO:root:Val loss: 1.098
+INFO:root:Saving model weights at epoch 70
+INFO:root:Saving model parameters at epoch 70
+INFO:root:Epoch: 71/200
+INFO:root:Train acc: 0.457
+INFO:root:Train loss: 1.099
+INFO:root:Val acc: 0.349
+INFO:root:Val loss: 1.098
+INFO:root:Epoch: 72/200
+INFO:root:Train acc: 0.458
+INFO:root:Train loss: 1.099
+INFO:root:Val acc: 0.348
+INFO:root:Val loss: 1.098
+INFO:root:Epoch: 73/200
+INFO:root:Train acc: 0.456
+INFO:root:Train loss: 1.099
+INFO:root:Val acc: 0.351
+INFO:root:Val loss: 1.098
+INFO:root:Epoch: 74/200
+INFO:root:Train acc: 0.458
+INFO:root:Train loss: 1.099
+INFO:root:Val acc: 0.350
+INFO:root:Val loss: 1.098
+INFO:root:Epoch: 75/200
+INFO:root:Train acc: 0.458
+INFO:root:Train loss: 1.098
+INFO:root:Val acc: 0.352
+INFO:root:Val loss: 1.098
+INFO:root:Saving model weights at epoch 75
+INFO:root:Saving model parameters at epoch 75
+INFO:root:Epoch: 76/200
+INFO:root:Train acc: 0.459
+INFO:root:Train loss: 1.098
+INFO:root:Val acc: 0.349
+INFO:root:Val loss: 1.098
+INFO:root:Epoch: 77/200
+INFO:root:Train acc: 0.460
+INFO:root:Train loss: 1.098
+INFO:root:Val acc: 0.353
+INFO:root:Val loss: 1.098
+INFO:root:Epoch: 78/200
+INFO:root:Train acc: 0.460
+INFO:root:Train loss: 1.098
+INFO:root:Val acc: 0.349
+INFO:root:Val loss: 1.098
+INFO:root:Epoch: 79/200
+INFO:root:Train acc: 0.461
+INFO:root:Train loss: 1.097
+INFO:root:Val acc: 0.350
+INFO:root:Val loss: 1.098
+INFO:root:Epoch: 80/200
+INFO:root:Train acc: 0.463
+INFO:root:Train loss: 1.097
+INFO:root:Val acc: 0.352
+INFO:root:Val loss: 1.098
+INFO:root:Saving model weights at epoch 80
+INFO:root:Saving model parameters at epoch 80
+INFO:root:Epoch: 81/200
+INFO:root:Train acc: 0.463
+INFO:root:Train loss: 1.097
+INFO:root:Val acc: 0.354
+INFO:root:Val loss: 1.098
+INFO:root:Epoch: 82/200
+INFO:root:Train acc: 0.463
+INFO:root:Train loss: 1.096
+INFO:root:Val acc: 0.354
+INFO:root:Val loss: 1.098
+INFO:root:Epoch: 83/200
+INFO:root:Train acc: 0.464
+INFO:root:Train loss: 1.096
+INFO:root:Val acc: 0.352
+INFO:root:Val loss: 1.098
+INFO:root:Epoch: 84/200
+INFO:root:Train acc: 0.468
+INFO:root:Train loss: 1.096
+INFO:root:Val acc: 0.353
+INFO:root:Val loss: 1.098
+INFO:root:Epoch: 85/200
+INFO:root:Train acc: 0.465
+INFO:root:Train loss: 1.096
+INFO:root:Val acc: 0.353
+INFO:root:Val loss: 1.098
+INFO:root:Saving model weights at epoch 85
+INFO:root:Saving model parameters at epoch 85
+INFO:root:Epoch: 86/200
+INFO:root:Train acc: 0.469
+INFO:root:Train loss: 1.095
+INFO:root:Val acc: 0.354
+INFO:root:Val loss: 1.098
+INFO:root:Epoch: 87/200
+INFO:root:Train acc: 0.468
+INFO:root:Train loss: 1.095
+INFO:root:Val acc: 0.354
+INFO:root:Val loss: 1.098
+INFO:root:Epoch: 88/200
+INFO:root:Train acc: 0.470
+INFO:root:Train loss: 1.094
+INFO:root:Val acc: 0.353
+INFO:root:Val loss: 1.098
+INFO:root:Epoch: 89/200
+INFO:root:Train acc: 0.469
+INFO:root:Train loss: 1.094
+INFO:root:Val acc: 0.355
+INFO:root:Val loss: 1.098
+INFO:root:Epoch: 90/200
+INFO:root:Train acc: 0.472
+INFO:root:Train loss: 1.094
+INFO:root:Val acc: 0.353
+INFO:root:Val loss: 1.098
+INFO:root:Saving model weights at epoch 90
+INFO:root:Saving model parameters at epoch 90
+INFO:root:Epoch: 91/200
+INFO:root:Train acc: 0.468
+INFO:root:Train loss: 1.094
+INFO:root:Val acc: 0.355
+INFO:root:Val loss: 1.098
+INFO:root:Epoch: 92/200
+INFO:root:Train acc: 0.472
+INFO:root:Train loss: 1.093
+INFO:root:Val acc: 0.356
+INFO:root:Val loss: 1.098
+INFO:root:Epoch: 93/200
+INFO:root:Train acc: 0.471
+INFO:root:Train loss: 1.093
+INFO:root:Val acc: 0.354
+INFO:root:Val loss: 1.098
+INFO:root:Epoch: 94/200
+INFO:root:Train acc: 0.473
+INFO:root:Train loss: 1.092
+INFO:root:Val acc: 0.355
+INFO:root:Val loss: 1.098
+INFO:root:Epoch: 95/200
+INFO:root:Train acc: 0.476
+INFO:root:Train loss: 1.092
+INFO:root:Val acc: 0.355
+INFO:root:Val loss: 1.098
+INFO:root:Saving model weights at epoch 95
+INFO:root:Saving model parameters at epoch 95
+INFO:root:Epoch: 96/200
+INFO:root:Train acc: 0.474
+INFO:root:Train loss: 1.092
+INFO:root:Val acc: 0.356
+INFO:root:Val loss: 1.098
+INFO:root:Epoch: 97/200
+INFO:root:Train acc: 0.475
+INFO:root:Train loss: 1.091
+INFO:root:Val acc: 0.356
+INFO:root:Val loss: 1.098
+INFO:root:Epoch: 98/200
+INFO:root:Train acc: 0.477
+INFO:root:Train loss: 1.091
+INFO:root:Val acc: 0.356
+INFO:root:Val loss: 1.098
+INFO:root:Epoch: 99/200
+INFO:root:Train acc: 0.478
+INFO:root:Train loss: 1.090
+INFO:root:Val acc: 0.356
+INFO:root:Val loss: 1.098
+INFO:root:Epoch: 100/200
+INFO:root:Train acc: 0.477
+INFO:root:Train loss: 1.090
+INFO:root:Val acc: 0.357
+INFO:root:Val loss: 1.098
+INFO:root:Saving model weights at epoch 100
+INFO:root:Saving model parameters at epoch 100
+INFO:root:Epoch: 101/200
+INFO:root:Train acc: 0.478
+INFO:root:Train loss: 1.090
+INFO:root:Val acc: 0.357
+INFO:root:Val loss: 1.098
+INFO:root:Epoch: 102/200
+INFO:root:Train acc: 0.482
+INFO:root:Train loss: 1.089
+INFO:root:Val acc: 0.356
+INFO:root:Val loss: 1.098
+INFO:root:Epoch: 103/200
+INFO:root:Train acc: 0.479
+INFO:root:Train loss: 1.089
+INFO:root:Val acc: 0.356
+INFO:root:Val loss: 1.098
+INFO:root:Epoch: 104/200
+INFO:root:Train acc: 0.483
+INFO:root:Train loss: 1.088
+INFO:root:Val acc: 0.359
+INFO:root:Val loss: 1.098
+INFO:root:Epoch: 105/200
+INFO:root:Train acc: 0.481
+INFO:root:Train loss: 1.088
+INFO:root:Val acc: 0.357
+INFO:root:Val loss: 1.098
+INFO:root:Saving model weights at epoch 105
+INFO:root:Saving model parameters at epoch 105
+INFO:root:Epoch: 106/200
+INFO:root:Train acc: 0.483
+INFO:root:Train loss: 1.087
+INFO:root:Val acc: 0.356
+INFO:root:Val loss: 1.098
+INFO:root:Epoch: 107/200
+INFO:root:Train acc: 0.484
+INFO:root:Train loss: 1.087
+INFO:root:Val acc: 0.356
+INFO:root:Val loss: 1.098
+INFO:root:Epoch: 108/200
+INFO:root:Train acc: 0.485
+INFO:root:Train loss: 1.086
+INFO:root:Val acc: 0.356
+INFO:root:Val loss: 1.098
+INFO:root:Epoch: 109/200
+INFO:root:Train acc: 0.488
+INFO:root:Train loss: 1.085
+INFO:root:Val acc: 0.355
+INFO:root:Val loss: 1.098
+INFO:root:Epoch: 110/200
+INFO:root:Train acc: 0.487
+INFO:root:Train loss: 1.085
+INFO:root:Val acc: 0.355
+INFO:root:Val loss: 1.098
+INFO:root:Saving model weights at epoch 110
+INFO:root:Saving model parameters at epoch 110
+INFO:root:Epoch: 111/200
+INFO:root:Train acc: 0.487
+INFO:root:Train loss: 1.084
+INFO:root:Val acc: 0.355
+INFO:root:Val loss: 1.098
+INFO:root:Epoch: 112/200
+INFO:root:Train acc: 0.488
+INFO:root:Train loss: 1.084
+INFO:root:Val acc: 0.358
+INFO:root:Val loss: 1.098
+INFO:root:Epoch: 113/200
+INFO:root:Train acc: 0.490
+INFO:root:Train loss: 1.083
+INFO:root:Val acc: 0.355
+INFO:root:Val loss: 1.098
+INFO:root:Epoch: 114/200
+INFO:root:Train acc: 0.491
+INFO:root:Train loss: 1.083
+INFO:root:Val acc: 0.356
+INFO:root:Val loss: 1.098
+INFO:root:Epoch: 115/200
+INFO:root:Train acc: 0.490
+INFO:root:Train loss: 1.082
+INFO:root:Val acc: 0.354
+INFO:root:Val loss: 1.098
+INFO:root:Saving model weights at epoch 115
+INFO:root:Saving model parameters at epoch 115
+INFO:root:Epoch: 116/200
+INFO:root:Train acc: 0.490
+INFO:root:Train loss: 1.082
+INFO:root:Val acc: 0.356
+INFO:root:Val loss: 1.098
+INFO:root:Epoch: 117/200
+INFO:root:Train acc: 0.493
+INFO:root:Train loss: 1.081
+INFO:root:Val acc: 0.357
+INFO:root:Val loss: 1.098
+INFO:root:Epoch: 118/200
+INFO:root:Train acc: 0.494
+INFO:root:Train loss: 1.081
+INFO:root:Val acc: 0.355
+INFO:root:Val loss: 1.098
+INFO:root:Epoch: 119/200
+INFO:root:Train acc: 0.495
+INFO:root:Train loss: 1.080
+INFO:root:Val acc: 0.358
+INFO:root:Val loss: 1.099
+INFO:root:Epoch: 120/200
+INFO:root:Train acc: 0.495
+INFO:root:Train loss: 1.080
+INFO:root:Val acc: 0.357
+INFO:root:Val loss: 1.099
+INFO:root:Saving model weights at epoch 120
+INFO:root:Saving model parameters at epoch 120
+INFO:root:Epoch: 121/200
+INFO:root:Train acc: 0.496
+INFO:root:Train loss: 1.079
+INFO:root:Val acc: 0.357
+INFO:root:Val loss: 1.099
+INFO:root:Epoch: 122/200
+INFO:root:Train acc: 0.495
+INFO:root:Train loss: 1.078
+INFO:root:Val acc: 0.357
+INFO:root:Val loss: 1.099
+INFO:root:Epoch: 123/200
+INFO:root:Train acc: 0.498
+INFO:root:Train loss: 1.077
+INFO:root:Val acc: 0.356
+INFO:root:Val loss: 1.099
+INFO:root:Epoch: 124/200
+INFO:root:Train acc: 0.498
+INFO:root:Train loss: 1.077
+INFO:root:Val acc: 0.357
+INFO:root:Val loss: 1.099
+INFO:root:Epoch: 125/200
+INFO:root:Train acc: 0.499
+INFO:root:Train loss: 1.077
+INFO:root:Val acc: 0.356
+INFO:root:Val loss: 1.099
+INFO:root:Saving model weights at epoch 125
+INFO:root:Saving model parameters at epoch 125
+INFO:root:Epoch: 126/200
+INFO:root:Train acc: 0.500
+INFO:root:Train loss: 1.076
+INFO:root:Val acc: 0.357
+INFO:root:Val loss: 1.099
+INFO:root:Epoch: 127/200
+INFO:root:Train acc: 0.501
+INFO:root:Train loss: 1.075
+INFO:root:Val acc: 0.356
+INFO:root:Val loss: 1.099
+INFO:root:Epoch: 128/200
+INFO:root:Train acc: 0.503
+INFO:root:Train loss: 1.074
+INFO:root:Val acc: 0.356
+INFO:root:Val loss: 1.099
+INFO:root:Epoch: 129/200
+INFO:root:Train acc: 0.501
+INFO:root:Train loss: 1.074
+INFO:root:Val acc: 0.355
+INFO:root:Val loss: 1.099
+INFO:root:Epoch: 130/200
+INFO:root:Train acc: 0.506
+INFO:root:Train loss: 1.073
+INFO:root:Val acc: 0.358
+INFO:root:Val loss: 1.099
+INFO:root:Saving model weights at epoch 130
+INFO:root:Saving model parameters at epoch 130
+INFO:root:Epoch: 131/200
+INFO:root:Train acc: 0.505
+INFO:root:Train loss: 1.073
+INFO:root:Val acc: 0.357
+INFO:root:Val loss: 1.100
+INFO:root:Epoch: 132/200
+INFO:root:Train acc: 0.505
+INFO:root:Train loss: 1.072
+INFO:root:Val acc: 0.358
+INFO:root:Val loss: 1.100
+INFO:root:Epoch: 133/200
+INFO:root:Train acc: 0.508
+INFO:root:Train loss: 1.070
+INFO:root:Val acc: 0.358
+INFO:root:Val loss: 1.100
+INFO:root:Epoch: 134/200
+INFO:root:Train acc: 0.507
+INFO:root:Train loss: 1.070
+INFO:root:Val acc: 0.357
+INFO:root:Val loss: 1.100
+INFO:root:Epoch: 135/200
+INFO:root:Train acc: 0.510
+INFO:root:Train loss: 1.069
+INFO:root:Val acc: 0.357
+INFO:root:Val loss: 1.100
+INFO:root:Saving model weights at epoch 135
+INFO:root:Saving model parameters at epoch 135
+INFO:root:Epoch: 136/200
+INFO:root:Train acc: 0.509
+INFO:root:Train loss: 1.069
+INFO:root:Val acc: 0.358
+INFO:root:Val loss: 1.100
+INFO:root:Epoch: 137/200
+INFO:root:Train acc: 0.509
+INFO:root:Train loss: 1.069
+INFO:root:Val acc: 0.358
+INFO:root:Val loss: 1.100
+INFO:root:Epoch: 138/200
+INFO:root:Train acc: 0.512
+INFO:root:Train loss: 1.068
+INFO:root:Val acc: 0.360
+INFO:root:Val loss: 1.100
+INFO:root:Epoch: 139/200
+INFO:root:Train acc: 0.512
+INFO:root:Train loss: 1.067
+INFO:root:Val acc: 0.359
+INFO:root:Val loss: 1.101
+INFO:root:Epoch: 140/200
+INFO:root:Train acc: 0.514
+INFO:root:Train loss: 1.066
+INFO:root:Val acc: 0.360
+INFO:root:Val loss: 1.101
+INFO:root:Saving model weights at epoch 140
+INFO:root:Saving model parameters at epoch 140
+INFO:root:Epoch: 141/200
+INFO:root:Train acc: 0.511
+INFO:root:Train loss: 1.066
+INFO:root:Val acc: 0.360
+INFO:root:Val loss: 1.101
+INFO:root:Epoch: 142/200
+INFO:root:Train acc: 0.514
+INFO:root:Train loss: 1.065
+INFO:root:Val acc: 0.361
+INFO:root:Val loss: 1.101
+INFO:root:Epoch: 143/200
+INFO:root:Train acc: 0.516
+INFO:root:Train loss: 1.063
+INFO:root:Val acc: 0.361
+INFO:root:Val loss: 1.101
+INFO:root:Epoch: 144/200
+INFO:root:Train acc: 0.516
+INFO:root:Train loss: 1.063
+INFO:root:Val acc: 0.361
+INFO:root:Val loss: 1.101
+INFO:root:Epoch: 145/200
+INFO:root:Train acc: 0.518
+INFO:root:Train loss: 1.063
+INFO:root:Val acc: 0.362
+INFO:root:Val loss: 1.101
+INFO:root:Saving model weights at epoch 145
+INFO:root:Saving model parameters at epoch 145
+INFO:root:Epoch: 146/200
+INFO:root:Train acc: 0.518
+INFO:root:Train loss: 1.062
+INFO:root:Val acc: 0.364
+INFO:root:Val loss: 1.102
+INFO:root:Epoch: 147/200
+INFO:root:Train acc: 0.519
+INFO:root:Train loss: 1.061
+INFO:root:Val acc: 0.362
+INFO:root:Val loss: 1.102
+INFO:root:Epoch: 148/200
+INFO:root:Train acc: 0.518
+INFO:root:Train loss: 1.061
+INFO:root:Val acc: 0.362
+INFO:root:Val loss: 1.102
+INFO:root:Epoch: 149/200
+INFO:root:Train acc: 0.520
+INFO:root:Train loss: 1.060
+INFO:root:Val acc: 0.361
+INFO:root:Val loss: 1.102
+INFO:root:Epoch: 150/200
+INFO:root:Train acc: 0.520
+INFO:root:Train loss: 1.060
+INFO:root:Val acc: 0.362
+INFO:root:Val loss: 1.102
+INFO:root:Saving model weights at epoch 150
+INFO:root:Saving model parameters at epoch 150
+INFO:root:Epoch: 151/200
+INFO:root:Train acc: 0.521
+INFO:root:Train loss: 1.059
+INFO:root:Val acc: 0.363
+INFO:root:Val loss: 1.102
+INFO:root:Epoch: 152/200
+INFO:root:Train acc: 0.523
+INFO:root:Train loss: 1.058
+INFO:root:Val acc: 0.362
+INFO:root:Val loss: 1.103
+INFO:root:Epoch: 153/200
+INFO:root:Train acc: 0.523
+INFO:root:Train loss: 1.057
+INFO:root:Val acc: 0.362
+INFO:root:Val loss: 1.103
+INFO:root:Epoch: 154/200
+INFO:root:Train acc: 0.526
+INFO:root:Train loss: 1.056
+INFO:root:Val acc: 0.363
+INFO:root:Val loss: 1.103
+INFO:root:Epoch: 155/200
+INFO:root:Train acc: 0.525
+INFO:root:Train loss: 1.055
+INFO:root:Val acc: 0.363
+INFO:root:Val loss: 1.103
+INFO:root:Saving model weights at epoch 155
+INFO:root:Saving model parameters at epoch 155
+INFO:root:Epoch: 156/200
+INFO:root:Train acc: 0.526
+INFO:root:Train loss: 1.054
+INFO:root:Val acc: 0.363
+INFO:root:Val loss: 1.103
+INFO:root:Epoch: 157/200
+INFO:root:Train acc: 0.529
+INFO:root:Train loss: 1.054
+INFO:root:Val acc: 0.364
+INFO:root:Val loss: 1.103
+INFO:root:Epoch: 158/200
+INFO:root:Train acc: 0.528
+INFO:root:Train loss: 1.053
+INFO:root:Val acc: 0.363
+INFO:root:Val loss: 1.104
+INFO:root:Epoch: 159/200
+INFO:root:Train acc: 0.529
+INFO:root:Train loss: 1.052
+INFO:root:Val acc: 0.365
+INFO:root:Val loss: 1.104
+INFO:root:Epoch: 160/200
+INFO:root:Train acc: 0.532
+INFO:root:Train loss: 1.052
+INFO:root:Val acc: 0.364
+INFO:root:Val loss: 1.104
+INFO:root:Saving model weights at epoch 160
+INFO:root:Saving model parameters at epoch 160
+INFO:root:Epoch: 161/200
+INFO:root:Train acc: 0.533
+INFO:root:Train loss: 1.051
+INFO:root:Val acc: 0.363
+INFO:root:Val loss: 1.104
+INFO:root:Epoch: 162/200
+INFO:root:Train acc: 0.534
+INFO:root:Train loss: 1.050
+INFO:root:Val acc: 0.362
+INFO:root:Val loss: 1.104
+INFO:root:Epoch: 163/200
+INFO:root:Train acc: 0.532
+INFO:root:Train loss: 1.050
+INFO:root:Val acc: 0.363
+INFO:root:Val loss: 1.105
+INFO:root:Epoch: 164/200
+INFO:root:Train acc: 0.535
+INFO:root:Train loss: 1.049
+INFO:root:Val acc: 0.364
+INFO:root:Val loss: 1.105
+INFO:root:Epoch: 165/200
+INFO:root:Train acc: 0.535
+INFO:root:Train loss: 1.048
+INFO:root:Val acc: 0.363
+INFO:root:Val loss: 1.105
+INFO:root:Saving model weights at epoch 165
+INFO:root:Saving model parameters at epoch 165
+INFO:root:Epoch: 166/200
+INFO:root:Train acc: 0.537
+INFO:root:Train loss: 1.047
+INFO:root:Val acc: 0.363
+INFO:root:Val loss: 1.105
+INFO:root:Epoch: 167/200
+INFO:root:Train acc: 0.536
+INFO:root:Train loss: 1.047
+INFO:root:Val acc: 0.363
+INFO:root:Val loss: 1.106
+INFO:root:Epoch: 168/200
+INFO:root:Train acc: 0.538
+INFO:root:Train loss: 1.045
+INFO:root:Val acc: 0.363
+INFO:root:Val loss: 1.106
+INFO:root:Epoch: 169/200
+INFO:root:Train acc: 0.538
+INFO:root:Train loss: 1.045
+INFO:root:Val acc: 0.363
+INFO:root:Val loss: 1.106
+INFO:root:Epoch: 170/200
+INFO:root:Train acc: 0.541
+INFO:root:Train loss: 1.044
+INFO:root:Val acc: 0.361
+INFO:root:Val loss: 1.106
+INFO:root:Saving model weights at epoch 170
+INFO:root:Saving model parameters at epoch 170
+INFO:root:Epoch: 171/200
+INFO:root:Train acc: 0.540
+INFO:root:Train loss: 1.044
+INFO:root:Val acc: 0.363
+INFO:root:Val loss: 1.106
+INFO:root:Epoch: 172/200
+INFO:root:Train acc: 0.541
+INFO:root:Train loss: 1.043
+INFO:root:Val acc: 0.361
+INFO:root:Val loss: 1.107
+INFO:root:Epoch: 173/200
+INFO:root:Train acc: 0.541
+INFO:root:Train loss: 1.042
+INFO:root:Val acc: 0.363
+INFO:root:Val loss: 1.107
+INFO:root:Epoch: 174/200
+INFO:root:Train acc: 0.543
+INFO:root:Train loss: 1.041
+INFO:root:Val acc: 0.362
+INFO:root:Val loss: 1.107
+INFO:root:Epoch: 175/200
+INFO:root:Train acc: 0.545
+INFO:root:Train loss: 1.039
+INFO:root:Val acc: 0.362
+INFO:root:Val loss: 1.107
+INFO:root:Saving model weights at epoch 175
+INFO:root:Saving model parameters at epoch 175
+INFO:root:Epoch: 176/200
+INFO:root:Train acc: 0.545
+INFO:root:Train loss: 1.039
+INFO:root:Val acc: 0.364
+INFO:root:Val loss: 1.108
+INFO:root:Epoch: 177/200
+INFO:root:Train acc: 0.544
+INFO:root:Train loss: 1.039
+INFO:root:Val acc: 0.363
+INFO:root:Val loss: 1.108
+INFO:root:Epoch: 178/200
+INFO:root:Train acc: 0.548
+INFO:root:Train loss: 1.038
+INFO:root:Val acc: 0.363
+INFO:root:Val loss: 1.108
+INFO:root:Epoch: 179/200
+INFO:root:Train acc: 0.548
+INFO:root:Train loss: 1.037
+INFO:root:Val acc: 0.364
+INFO:root:Val loss: 1.109
+INFO:root:Epoch: 180/200
+INFO:root:Train acc: 0.548
+INFO:root:Train loss: 1.037
+INFO:root:Val acc: 0.364
+INFO:root:Val loss: 1.109
+INFO:root:Saving model weights at epoch 180
+INFO:root:Saving model parameters at epoch 180
+INFO:root:Epoch: 181/200
+INFO:root:Train acc: 0.549
+INFO:root:Train loss: 1.035
+INFO:root:Val acc: 0.364
+INFO:root:Val loss: 1.109
+INFO:root:Epoch: 182/200
+INFO:root:Train acc: 0.549
+INFO:root:Train loss: 1.035
+INFO:root:Val acc: 0.366
+INFO:root:Val loss: 1.109
+INFO:root:Epoch: 183/200
+INFO:root:Train acc: 0.552
+INFO:root:Train loss: 1.033
+INFO:root:Val acc: 0.365
+INFO:root:Val loss: 1.110
+INFO:root:Epoch: 184/200
+INFO:root:Train acc: 0.551
+INFO:root:Train loss: 1.033
+INFO:root:Val acc: 0.365
+INFO:root:Val loss: 1.110
+INFO:root:Epoch: 185/200
+INFO:root:Train acc: 0.554
+INFO:root:Train loss: 1.032
+INFO:root:Val acc: 0.365
+INFO:root:Val loss: 1.110
+INFO:root:Saving model weights at epoch 185
+INFO:root:Saving model parameters at epoch 185
+INFO:root:Epoch: 186/200
+INFO:root:Train acc: 0.552
+INFO:root:Train loss: 1.032
+INFO:root:Val acc: 0.365
+INFO:root:Val loss: 1.111
+INFO:root:Epoch: 187/200
+INFO:root:Train acc: 0.554
+INFO:root:Train loss: 1.031
+INFO:root:Val acc: 0.365
+INFO:root:Val loss: 1.111
+INFO:root:Epoch: 188/200
+INFO:root:Train acc: 0.554
+INFO:root:Train loss: 1.030
+INFO:root:Val acc: 0.365
+INFO:root:Val loss: 1.111
+INFO:root:Epoch: 189/200
+INFO:root:Train acc: 0.556
+INFO:root:Train loss: 1.029
+INFO:root:Val acc: 0.365
+INFO:root:Val loss: 1.111
+INFO:root:Epoch: 190/200
+INFO:root:Train acc: 0.556
+INFO:root:Train loss: 1.028
+INFO:root:Val acc: 0.365
+INFO:root:Val loss: 1.112
+INFO:root:Saving model weights at epoch 190
+INFO:root:Saving model parameters at epoch 190
+INFO:root:Epoch: 191/200
+INFO:root:Train acc: 0.558
+INFO:root:Train loss: 1.028
+INFO:root:Val acc: 0.365
+INFO:root:Val loss: 1.112
+INFO:root:Epoch: 192/200
+INFO:root:Train acc: 0.559
+INFO:root:Train loss: 1.026
+INFO:root:Val acc: 0.365
+INFO:root:Val loss: 1.112
+INFO:root:Epoch: 193/200
+INFO:root:Train acc: 0.558
+INFO:root:Train loss: 1.026
+INFO:root:Val acc: 0.366
+INFO:root:Val loss: 1.113
+INFO:root:Epoch: 194/200
+INFO:root:Train acc: 0.561
+INFO:root:Train loss: 1.025
+INFO:root:Val acc: 0.366
+INFO:root:Val loss: 1.113
+INFO:root:Epoch: 195/200
+INFO:root:Train acc: 0.561
+INFO:root:Train loss: 1.024
+INFO:root:Val acc: 0.367
+INFO:root:Val loss: 1.113
+INFO:root:Saving model weights at epoch 195
+INFO:root:Saving model parameters at epoch 195
+INFO:root:Epoch: 196/200
+INFO:root:Train acc: 0.561
+INFO:root:Train loss: 1.024
+INFO:root:Val acc: 0.366
+INFO:root:Val loss: 1.114
+INFO:root:Epoch: 197/200
+INFO:root:Train acc: 0.562
+INFO:root:Train loss: 1.023
+INFO:root:Val acc: 0.366
+INFO:root:Val loss: 1.114
+INFO:root:Epoch: 198/200
+INFO:root:Train acc: 0.562
+INFO:root:Train loss: 1.022
+INFO:root:Val acc: 0.366
+INFO:root:Val loss: 1.114
+INFO:root:Epoch: 199/200
+INFO:root:Train acc: 0.564
+INFO:root:Train loss: 1.021
+INFO:root:Val acc: 0.366
+INFO:root:Val loss: 1.115
+INFO:root:Epoch: 200/200
+INFO:root:Train acc: 0.564
+INFO:root:Train loss: 1.020
+INFO:root:Val acc: 0.366
+INFO:root:Val loss: 1.115
+INFO:root:Saving model weights at epoch 200
+INFO:root:Saving model parameters at epoch 200
+INFO:root:Optimization finished after 200 epochs for lambda: 0.008
+INFO:root:Plotting number of non-negative dimensions as a function of time for lambda: 0.008
+INFO:root:Plotting model performances over time across all lambda values
